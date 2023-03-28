@@ -10,5 +10,5 @@
 
 * [SnesFX](https://twitter.com/snesfx) - The decomp
 
-* Team Salvado - Creators of DDLC
+* Team Salvato - Creators of DDLC
 
